@@ -1,0 +1,138 @@
+|            Last Updated: 05/02/2024 at 14:29:22           |
+
+Film
+Barbie
+2023
+Comedy
+Warner Brothers
+PG-13
+Greta Gerwig
+124
+Film
+Inception
+2010
+Sci-Fi
+Warner Brothers
+PG-13
+Christopher Nolan
+148
+Film
+Pulp Fiction
+1994
+Crime, Drama
+Warner Brothers
+R
+Quentin Tarantino
+154
+Film
+The Dark Knight
+2008
+Action, Crime, Drama
+Warner Brothers
+PG-13
+Christopher Nolan
+152
+Film
+The Godfather
+1972
+Crime, Drama
+Warner Brothers
+R
+Francis Ford Coppola
+175
+VideoGame
+Red Dead Redemption 2
+2018
+Action-adventure
+Rockstar Studios
+M
+PlayStation 4, Xbox One
+1
+VideoGame
+Starfield
+2023
+Sci-fi Action RPG
+Bethesda Softworks
+M
+Xbox/PC
+1
+VideoGame
+Super Mario Odyssey
+2017
+Platformer
+Nintendo EPD
+E10+
+Nintendo Switch
+2
+VideoGame
+The Last of Us Part II
+2020
+Action-adventure, Survival horror
+Naughty Dog
+M
+PlayStation 4
+1
+VideoGame
+The Legend of Zelda: Breath of the Wild
+2017
+Action-adventure
+Nintendo EPD
+E10+
+Nintendo Switch
+1
+VideoGame
+The Witcher 3: Wild Hunt
+2015
+Action role-playing
+CD Projekt
+M
+PlayStation 4, Xbox One, PC
+1
+TV-Show
+Breaking Bad
+2008
+Drama, Crime, Thriller
+AMC
+TV-MA
+Remember my Name
+5
+TV-Show
+Friends
+1994
+Comedy
+NBC
+TV-14
+You never had enough friends
+10
+TV-Show
+Game of Thrones
+2011
+Fantasy, Drama
+HBO
+TV-MA
+Winter is coming
+8
+TV-Show
+Mr. Robot
+2016
+Drama
+USA Network
+TV-M
+Our Democracy has been hacked
+1
+TV-Show
+Stranger Things
+2016
+Science fiction, Horror, Supernatural
+Netflix
+TV-14
+The World is turning upside down
+4
+TV-Show
+The Office (US)
+2005
+Comedy
+NBC
+TV-14
+Just anyone that works
+9
